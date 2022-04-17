@@ -2,3 +2,5 @@ just a text filw
 
 seeing changes in git
 
+okay, it knows i added the file 
+now let's see if it sees the modificaitons
