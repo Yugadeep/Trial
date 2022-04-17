@@ -1,5 +1,5 @@
-just a text filw
-
+just a text file
+it was not filw but file instead
 seeing changes in git
 
 okay, it knows i added the file 
