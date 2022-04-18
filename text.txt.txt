@@ -1,6 +1,3 @@
-just a text file
-it was not filw but file instead
-seeing changes in git
+new branch, new stuff
 
-okay, it knows i added the file 
-now let's see if it sees the modificaitons
+let's see how it changes stuff
